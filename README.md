@@ -1,2 +1,2 @@
-# Java programming
-This repository holds all the projects I worked on while learning to code in Java
+# Java programming module 7
+This module focuses on java Fx and advanced GUI topics
