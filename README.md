@@ -1,2 +1,2 @@
-# Java-programs
-This repository holds all the projects I worked on while learning to code in Java
+# Java-programming module 5
+This module focuses on object oriented programming and inheritance concepts.
