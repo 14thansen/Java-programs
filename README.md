@@ -1,2 +1,2 @@
-# Java-programs
-This repository holds all the projects I worked on while learning to code in Java
+# Java-programing module 3
+This module focuses on the basics of java programing.
